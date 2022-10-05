@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+<p align="center">
+  <img src="assets/hotel.jpg" width="350" alt="hotel">
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
